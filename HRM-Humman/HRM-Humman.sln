@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRM-Humman", "HRM-Humman.csproj", "{BA7B8817-E3D3-4B82-B473-4585EB958FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA7B8817-E3D3-4B82-B473-4585EB958FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7B8817-E3D3-4B82-B473-4585EB958FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7B8817-E3D3-4B82-B473-4585EB958FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7B8817-E3D3-4B82-B473-4585EB958FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A0D88E-E028-4598-BB1A-D2A441EC2C8E}
+	EndGlobalSection
+EndGlobal
